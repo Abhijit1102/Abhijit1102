@@ -53,16 +53,10 @@ Docker | Docker Compose | GitHub Actions | MLflow
 Pandas | Numpy | Sklearn | PySpark | Pytorch | Matplotlib | Seaborn | TFX
 
 ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijit-rajkumar-50b641213/)
+[![Resume](https://img.shields.io/badge/Resume-%230077B5.svg?logo=resume&logoColor=white)](https://drive.google.com/file/d/1-1xWQ1xkKOkEI6DWvWy0JowTCNC_39DK/view?usp=sharin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=portfolio&logoColor=white)](https://abhijit1102.github.io/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishalsingh1719/) 
-[![Topmate](https://img.shields.io/badge/Topmate-%230077B5.svg?logo=topmate&logoColor=white)](https://topmate.io/vishalsingh17)
-[![Resume](https://img.shields.io/badge/Resume-%230077B5.svg?logo=resume&logoColor=white)](https://flowcv.com/resume/wio8g0iudu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=portfolio&logoColor=white)](https://flowcv.me/vishal17)
-
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalsingh17&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishalsingh17&theme=radical&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsingh17&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
