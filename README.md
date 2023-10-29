@@ -1,4 +1,3 @@
-<link rel="stylesheet" type="text/css" href="custom.css">
 <p align="center">
   <img src="https://media.tenor.com/oE-eMpmCEBoAAAAi/hacker-programming.gif" alt="Exciting GIF">
 </p>
@@ -27,7 +26,8 @@ My expertise in data science allows me to deliver data-driven solutions that mak
 
 Feel free to connect with me to explore how we can collaborate and make a difference in the world of data science.
 
-<div class="skills-section">
+<div style="background-color: #F4E4D4; padding: 20px; border-radius: 10px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);">
+
   
 ## ⚒️ Skills
 
