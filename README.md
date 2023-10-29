@@ -1,20 +1,4 @@
-<h1 align="center">🎉 Hello, Welcome to my profile.</h1>
-
-<script>
-  // Array of random themes
-  const themes = [
-    'theme=natural-beauty',
-    'theme=radical',
-    'theme=random',
-    // Add more themes as desired
-  ];
-
-  // Pick a random theme
-  const randomTheme = themes[Math.floor(Math.random() * themes.length)];
-
-  // Redirect to the current page with the random theme
-  window.location.href = window.location.href + '?' + randomTheme;
-</script>
+<h1 align="center">👋 Hello, Welcome to my profile.</h1>
 
 I'm a passionate <b>Data Scientist</b> with 1+ years of hands-on experience in the field of data science. My goal is to leverage the power of data to drive meaningful insights and solve complex business challenges.
 
@@ -38,10 +22,11 @@ My expertise in data science allows me to deliver data-driven solutions that mak
 
 Feel free to connect with me to explore how we can collaborate and make a difference in the world of data science.
 
+
 ## ⚒️ Skills:
 
 <b> 🧑‍💻 Programming Languages: </b><br>
-Python | SQL | Spark | C | Java | JavaScript
+Python | SQL | Spark | C | java  | Javascript
 
 <b> ⛓️ Distributed Framework: </b><br>
 Spark | Hadoop | Hive | Kafka | Sqoop
@@ -72,15 +57,17 @@ Pandas | Numpy | Sklearn | PySpark | Pytorch | Matplotlib | Seaborn | TFX
 [![Resume](https://img.shields.io/badge/Resume-%230077B5.svg?logo=resume&logoColor=white)](https://drive.google.com/file/d/1-1xWQ1xkKOkEI6DWvWy0JowTCNC_39DK/view?usp=sharin)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=portfolio&logoColor=white)](https://abhijit1102.github.io/)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijit1102&theme=random&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijit1102&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhijit1102&theme=random&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abhijit1102&theme=random&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijit1102&theme=random&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Abhijit1102&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abhijit1102&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijit1102&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## ✍️ Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=random)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 😂 Random Dev Meme
 ![Random Dev Meme](https://randommeme-five.vercel.app/)
