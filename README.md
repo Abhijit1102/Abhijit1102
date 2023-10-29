@@ -1,76 +1,67 @@
-<h1 align="center">Abhijit Rajkumar</h1>
+<h1 align="center">👋 Hello, Welcome to my profile.</h1>
 
-<p align="center">
-  🌐 Portfolio: <a href="https://abhijit1102.github.io">https://abhijit1102.github.io</a> &bull;
-  📧 Email: abhijitrajkumar2@gmail.com &bull;
-  📞 Phone: +91 7005157909 &bull;
-  📍 Location: Delhi, India
-</p>
+I'm a passionate <b>Big Data Engineer</b> with 4+ years of hands-on experience in designing and implementing robust data solutions. My goal is to leverage the power of data to drive meaningful insights and solve complex business challenges.
 
-<p align="center">
-  <a href="https://github.com/Abhijit1102"><img src="https://img.shields.io/badge/GitHub-Abhijit1102-blue" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/abhijit-rajkumar-50b641213/"><img src="https://img.shields.io/badge/LinkedIn-Abhijit%20Rajkumar-blue" alt="LinkedIn"></a>
-</p>
+💡 **Expertise:**
+In my journey as a Big Data Engineer, I have honed my skills in:
 
-<h2>Profile</h2>
+🔹 **Big Data Technologies:** I have a strong command over Hadoop, Spark and their ecosystems. I specialize in building scalable data pipelines, processing large datasets, and optimizing performance for efficient data processing.
 
-<p>
-  Proficient in Python, Flask, Django, scikit-learn, and data visualization libraries. Strong foundation in data preprocessing, feature engineering, and model evaluation. Utilizes machine learning algorithms to solve real-world problems and drive data-centric decision-making.
-</p>
+🔹 **Programming Languages:** I am proficient in Python, SQL, and Spark, using them to develop data-centric applications, perform data analysis, and build machine learning models.
 
-<h2>Education</h2>
+🔹 **Data Warehousing:** I have hands-on experience with data warehousing principles, including data modeling, ETL (Extract, Transform, Load) processes, and dimensional modeling. I am well-versed in designing and implementing data warehouses for improved data accessibility and reporting.
 
-- MSc (H) Statistics
-  - GuruCharan College, Assam University
+🔹 **Database Management:** I have a strong grasp of SQL and have worked extensively with both relational databases (MySQL, PostgreSQL) and NoSQL databases (MongoDB, Cassandra). I excel at writing complex queries, optimizing database performance, and ensuring data integrity.
 
-<h2>Skills</h2>
+🔹 **Cloud Platforms:** I am adept at working with cloud-based environments, particularly on AWS and Azure.
 
-- Python
-- SQL
-- Tableau
-- Microsoft Excel
-- Azure
-- Statistics and Probability
-- Data Preparation
-- Power BI
-- Machine Learning
-- Matplotlib
-- Pandas
-- Seaborn
-- Deep Learning
-- NLP
-- AWS
-- Git
-- TensorFlow
-- PyTorch
-- Keras
-- MongoDB
-- Django
+🔹 **Data Visualization:** I possess a keen eye for visualizing data insights and effectively communicating complex findings to stakeholders. I am skilled in using tools like Tableau and Power BI to create intuitive dashboards and reports.
 
-<h2>Projects</h2>
+## ⚒️ Skills:
 
-<h3>Breast-Cancer Prediction</h3>
+<b> 🧑‍💻 Programming Languages: </b><br>
+Python | SQL | Spark
 
-- **Problem Statement:** Develop an End-to-End Modular Machine Learning Breast Cancer Prediction Project with a Flask-based web application for accurate breast cancer classification.
-- Achieved an impressive classification accuracy of 99.45% in predicting breast cancer.
-- Implemented a modular project structure with separate components for data ingestion, transformation, model training, and prediction pipelines.
-- Utilized industry-standard practices for data preprocessing, feature engineering, and model evaluation.
-- Deployed the project as a Flask web application to provide a user-friendly interface for accessing and utilizing the breast cancer prediction system.
+<b> ⛓️ Distributed Framework: </b><br>
+Spark | Hadoop | Hive | Kafka | Sqoop
 
-<h3>WhatsApp Chat Analyzer</h3>
+<b> 💾 Databases: </b><br>
+MySQL | MongoDB | Cassandra | HBase
 
-- Developed a WhatsApp Chat Analyzer web application using Streamlit to import WhatsApp chat data and perform various analyses and visualizations.
-- Performed sentiment analysis on the chat messages to determine the overall sentiment of the conversation.
-- Generated word clouds for better visualization and understanding of the chat content.
-- Enabled users to import WhatsApp chat data in text format and extract chat statistics such as total messages and participant activity.
+<b> 🧬 Version Control: </b><br>
+Git | DVC
 
-<h3>YouTube Scraper</h3>
+<b> ⏰ Workflow Management: </b><br>
+Airflow | Mage
 
-- Developed a web application that allows users to retrieve video information from a specified YouTube channel.
-- Scraped the top videos from the channel, including their titles, views, and upload dates, by making HTTP requests and parsing the HTML content.
-- Deployed on AWS Elastic Beanstalk for high availability and fault tolerance.
+<b> ☁️ AWS Services: </b> <br>
+S3 | EC2 | EMR | RDS | Redshift | Glue | CloudWatch | ECS
 
-<h2>Courses & Experience</h2>
+<b> ☁️ Azure Services: </b><br>
+Data Factory | Databricks | Functions | Blob | Synapse | Delta Lake
 
-- One Month Internship at capabl (elite techno groups)
-- Pursuing Data Science Master Course at Pwskill
+<b> 🚀 MLOps: </b><br>
+Docker | Docker Compose | GitHub Actions | MLflow
+
+<b> 🪄 ML Frameworks: </b><br>
+Pandas | Numpy | Sklearn | PySpark | Pytorch | Matplotlib | Seaborn | TFX
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishalsingh1719/) 
+[![Topmate](https://img.shields.io/badge/Topmate-%230077B5.svg?logo=topmate&logoColor=white)](https://topmate.io/vishalsingh17)
+[![Resume](https://img.shields.io/badge/Resume-%230077B5.svg?logo=resume&logoColor=white)](https://flowcv.com/resume/wio8g0iudu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=portfolio&logoColor=white)](https://flowcv.me/vishal17)
+
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalsingh17&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishalsingh17&theme=radical&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsingh17&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## ✍️ Random Dev Quote
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 😂 Random Dev Meme
+![Random Dev Meme](https://randommeme-five.vercel.app/)
