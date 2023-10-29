@@ -1,26 +1,26 @@
 <p align="center">
-  <img src="https://media.tenor.com/-6m2vqRjKDEAAAAi/geek-girl.gif" alt="Exciting GIF">
+  <img src="https://media.tenor.com/oE-eMpmCEBoAAAAi/hacker-programming.gif" alt="Exciting GIF">
 </p>
 
 <h1 align="center">👋 Hello, Welcome to my profile.</h1>
 
 I'm a passionate <b>Data Scientist</b> with 1+ years of hands-on experience in the field of data science. My goal is to leverage the power of data to drive meaningful insights and solve complex business challenges.
 
-💡 **Expertise:**
+## 💡 Expertise
 
 In my journey as a Data Scientist, I have honed my skills in:
 
-🔹 **Data Science:** I specialize in data analysis, predictive modeling, and machine learning. I have a deep understanding of data science algorithms and techniques.
+- **Data Science:** I specialize in data analysis, predictive modeling, and machine learning. I have a deep understanding of data science algorithms and techniques.
 
-🔹 **Programming Languages:** I am proficient in Python, using it to develop data-centric applications, perform data analysis, and build machine learning models.
+- **Programming Languages:** I am proficient in Python, using it to develop data-centric applications, perform data analysis, and build machine learning models.
 
-🔹 **Data Visualization:** I possess a keen eye for visualizing data insights and effectively communicating complex findings to stakeholders. I am skilled in using tools like Tableau and Power BI to create intuitive dashboards and reports.
+- **Data Visualization:** I possess a keen eye for visualizing data insights and effectively communicating complex findings to stakeholders. I am skilled in using tools like Tableau and Power BI to create intuitive dashboards and reports.
 
-🔹 **Data Preprocessing:** I have hands-on experience with data preprocessing, feature engineering, and model evaluation, ensuring data quality and accuracy.
+- **Data Preprocessing:** I have hands-on experience with data preprocessing, feature engineering, and model evaluation, ensuring data quality and accuracy.
 
-🔹 **Statistics and Probability:** I have a strong foundation in statistics and probability, which is crucial for data analysis and model building.
+- **Statistics and Probability:** I have a strong foundation in statistics and probability, which is crucial for data analysis and model building.
 
-🔹 **Machine Learning:** I utilize machine learning algorithms to solve real-world problems and drive data-centric decision-making.
+- **Machine Learning:** I utilize machine learning algorithms to solve real-world problems and drive data-centric decision-making.
 
 My expertise in data science allows me to deliver data-driven solutions that make a positive impact on businesses and organizations.
 
@@ -28,10 +28,10 @@ Feel free to connect with me to explore how we can collaborate and make a differ
 
 <div class="skills-section">
   
-## ⚒️ Skills:
+## ⚒️ Skills
 
 <b> 🧑‍💻 Programming Languages: </b><br>
-Python | SQL | Spark | C | java  | Javascript
+Python | SQL | Spark | C | Java  | Javascript
 
 <b> ⛓️ Distributed Framework: </b><br>
 Spark | Hadoop | Hive | Kafka | Sqoop
@@ -59,25 +59,30 @@ Pandas | Numpy | Sklearn | PySpark | Pytorch | Matplotlib | Seaborn | TFX
 
 </div>
 
-
 <div align="center">
 
-## 🌐 Socials:
+## 🌐 Socials
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijit-rajkumar-50b641213/)
-[![Resume](https://img.shields.io/badge/Resume-%230077B5.svg?logo=resume&logoColor=white)](https://drive.google.com/file/d/1-1xWQ1xkKOkEI6DWvWy0JowTCNC_39DK/view?usp=sharin)
+[![Resume](https://img.shields.io/badge/Resume-%230077B5.svg?logo=resume&logoColor=white)](https://drive.google.com/file/d/1-1xWQ1xkKOkEI6DWvWy0JowTCNC_39DK/view?usp=sharing)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=portfolio&logoColor=white)](https://abhijit1102.github.io)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijit1102&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhijit1102&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abhijit1102&theme=radical&hide_border=false)<br/>
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Abhijit1102&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abhijit1102&theme=radical&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijit1102&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## ✍️ Random Dev Quote
+
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 😂 Random Dev Meme
+
 ![Random Dev Meme](https://randommeme-five.vercel.app/)
 
 </div>
