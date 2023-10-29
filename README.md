@@ -1,5 +1,21 @@
 <h1 align="center">🎉 Hello, Welcome to my profile.</h1>
 
+<script>
+  // Array of random themes
+  const themes = [
+    'theme=natural-beauty',
+    'theme=radical',
+    'theme=random',
+    // Add more themes as desired
+  ];
+
+  // Pick a random theme
+  const randomTheme = themes[Math.floor(Math.random() * themes.length)];
+
+  // Redirect to the current page with the random theme
+  window.location.href = window.location.href + '?' + randomTheme;
+</script>
+
 I'm a passionate <b>Data Scientist</b> with 1+ years of hands-on experience in the field of data science. My goal is to leverage the power of data to drive meaningful insights and solve complex business challenges.
 
 💡 **Expertise:**
