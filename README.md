@@ -29,34 +29,35 @@ Feel free to connect with me to explore how we can collaborate and make a differ
 
 <div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 5px; margin-top: 20px;">
 
-<b style="font-size: 20px;">🧑‍💻 Programming Languages:</b><br>
-Python | SQL | Spark | C | Java  | Javascript
+  <b style="font-size: 20px;">🧑‍💻 Programming Languages:</b><br>
+  <i class="fab fa-python"></i> Python | <i class="fab fa-aws"></i> AWS | <i class="fab fa-cuttlefish"></i> C | Java  | Javascript
 
-<b style="font-size: 20px;">⛓️ Distributed Framework:</b><br>
-Spark | Hadoop | Hive | Kafka | Sqoop
+  <b style="font-size: 20px;">⛓️ Distributed Framework:</b><br>
+  <i class="fab fa-spark"></i> Spark | <i class="fab fa-hadoop"></i> Hadoop | Hive | Kafka | Sqoop
 
-<b style="font-size: 20px;">💾 Databases:</b><br>
-MySQL | MongoDB | PostgresSQL
+  <b style="font-size: 20px;">💾 Databases:</b><br>
+  <i class="fas fa-database"></i> MySQL | <i class="fas fa-database"></i> MongoDB | PostgresSQL
 
-<b style="font-size: 20px;">🧬 Version Control:</b><br>
-Git | DVC 
+  <b style="font-size: 20px;">🧬 Version Control:</b><br>
+  <i class="fab fa-git"></i> Git | <i class="fas fa-code-branch"></i> DVC 
 
-<b style="font-size: 20px;">⏰ Workflow Management:</b><br>
-Airflow | Mage
+  <b style="font-size: 20px;">⏰ Workflow Management:</b><br>
+  <i class="fas fa-clock"></i> Airflow | Mage
 
-<b style="font-size: 20px;">☁️ AWS Services:</b><br>
-S3 | EC2 | EMR | RDS | Redshift | Glue | CloudWatch | ECS
+  <b style="font-size: 20px;">☁️ AWS Services:</b><br>
+  <i class="fab fa-aws"></i> S3 | EC2 | EMR | RDS | Redshift | Glue | CloudWatch | ECS
 
-<b style="font-size: 20px;">☁️ Azure Services:</b><br>
-Data Factory | Databricks | Functions | Blob | Synapse | Delta Lake
+  <b style="font-size: 20px;">☁️ Azure Services:</b><br>
+  <i class="fab fa-microsoft"></i> Data Factory | Databricks | Functions | Blob | Synapse | Delta Lake
 
-<b style="font-size: 20px;">🚀 MLOps:</b><br>
-Docker | Docker Compose | GitHub Actions | MLflow
+  <b style="font-size: 20px;">🚀 MLOps:</b><br>
+  <i class="fab fa-docker"></i> Docker | Docker Compose | GitHub Actions | <i class="fas fa-flask"></i> MLflow
 
-<b style="font-size: 20px;">🪄 ML Frameworks:</b><br>
-Pandas | Numpy | Sklearn | PySpark | Pytorch | Matplotlib | Seaborn | TFX
+  <b style="font-size: 20px;">🪄 ML Frameworks:</b><br>
+  <i class="fab fa-python"></i> Pandas | Numpy | Sklearn | <i class="fab fa-python"></i> PySpark | Pytorch | Matplotlib | Seaborn | TFX
 
 </div>
+
 
 <div align="center" style="margin-top: 20px;">
 
