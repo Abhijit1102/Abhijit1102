@@ -2,26 +2,28 @@
   <img src="https://media.tenor.com/oE-eMpmCEBoAAAAi/hacker-programming.gif" alt="Exciting GIF">
 </p>
 
-<h1 align="center" style="color: #333; font-size: 36px;">👋 Hello, Welcome to my profile.</h1>
+<h1 align="center">👋 Hello, Welcome to my profile.</h1>
 
-<p align="center" style="font-size: 18px; margin-top: -10px; font-weight: bold;">I'm a passionate <b>Data Scientist</b> with 1+ years of hands-on experience in the field of data science. My goal is to leverage the power of data to drive meaningful insights and solve complex business challenges.</p>
+I'm a passionate <b>Data Scientist</b> with 1+ years of hands-on experience in the field of data science. My goal is to leverage the power of data to drive meaningful insights and solve complex business challenges.
 
-<h2 style="color: #333;">💡 Expertise</h2>
+## 💡 Expertise
 
-<p style="font-size: 16px; color: #555;">In my journey as a Data Scientist, I have honed my skills in:</p>
+In my journey as a Data Scientist, I have honed my skills in:
 
-<ul style="list-style-type: disc; font-size: 14px; color: #666; margin-left: 20px;">
-  <li style="margin-bottom: 10px;"><b>Data Science:</b> I specialize in data analysis, predictive modeling, and machine learning. I have a deep understanding of data science algorithms and techniques.</li>
-  <li style="margin-bottom: 10px;"><b>Programming Languages:</b> I am proficient in Python, using it to develop data-centric applications, perform data analysis, and build machine learning models.</li>
-  <li style="margin-bottom: 10px;"><b>Data Visualization:</b> I possess a keen eye for visualizing data insights and effectively communicating complex findings to stakeholders. I am skilled in using tools like Tableau and Power BI to create intuitive dashboards and reports.</li>
-  <li style="margin-bottom: 10px;"><b>Data Preprocessing:</b> I have hands-on experience with data preprocessing, feature engineering, and model evaluation, ensuring data quality and accuracy.</li>
-  <li style="margin-bottom: 10px;"><b>Statistics and Probability:</b> I have a strong foundation in statistics and probability, which is crucial for data analysis and model building.</li>
-  <li style="margin-bottom: 10px;"><b>Machine Learning:</b> I utilize machine learning algorithms to solve real-world problems and drive data-centric decision-making.</li>
-</ul>
+- **Data Science:** I specialize in data analysis, predictive modeling, and machine learning. I have a deep understanding of data science algorithms and techniques.
 
-<p style="font-size: 16px; color: #555;">My expertise in data science allows me to deliver data-driven solutions that make a positive impact on businesses and organizations.</p>
+- **Programming Languages:** I am proficient in Python, using it to develop data-centric applications, perform data analysis, and build machine learning models.
 
-<p style="font-size: 16px; color: #555;">Feel free to connect with me to explore how we can collaborate and make a difference in the world of data science.</p>
+- **Data Visualization:** I possess a keen eye for visualizing data insights and effectively communicating complex findings to stakeholders. I am skilled in using tools like Tableau and Power BI to create intuitive dashboards and reports.
+
+- **Data Preprocessing:** I have hands-on experience with data preprocessing, feature engineering, and model evaluation, ensuring data quality and accuracy.
+
+- **Statistics and Probability:** I have a strong foundation in statistics and probability, which is crucial for data analysis and model building.
+
+- **Machine Learning:** I utilize machine learning algorithms to solve real-world problems and drive data-centric decision-making.
+
+My expertise in data science allows me to deliver data-driven solutions that make a positive impact on businesses and organizations.
+Feel free to connect with me to explore how we can collaborate and make a difference in the world of data science.
 
 <h2 style="color: #333;">⚒️ Skills</h2>
 
@@ -87,5 +89,11 @@ Pandas | Numpy | Sklearn | PySpark | Pytorch | Matplotlib | Seaborn | TFX
 <h2 style="color: #333; margin-top: 20px;">😂 Random Dev Meme</h2>
 
 <img src="https://randommeme-five.vercel.app/" alt="Random Dev Meme">
+
+</div>
+
+
+
+![Random Dev Meme](https://randommeme-five.vercel.app/)
 
 </div>
