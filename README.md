@@ -92,8 +92,3 @@ Pandas | Numpy | Sklearn | PySpark | Pytorch | Matplotlib | Seaborn | TFX
 
 </div>
 
-
-
-![Random Dev Meme](https://randommeme-five.vercel.app/)
-
-</div>
