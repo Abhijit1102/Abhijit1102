@@ -1,4 +1,4 @@
-<h1 align="center">🌿 Hello, Welcome to my profile.</h1>
+<h1 align="center">🎉 Hello, Welcome to my profile.</h1>
 
 I'm a passionate <b>Data Scientist</b> with 1+ years of hands-on experience in the field of data science. My goal is to leverage the power of data to drive meaningful insights and solve complex business challenges.
 
@@ -56,15 +56,15 @@ Pandas | Numpy | Sklearn | PySpark | Pytorch | Matplotlib | Seaborn | TFX
 [![Resume](https://img.shields.io/badge/Resume-%230077B5.svg?logo=resume&logoColor=white)](https://drive.google.com/file/d/1-1xWQ1xkKOkEI6DWvWy0JowTCNC_39DK/view?usp=sharin)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=portfolio&logoColor=white)](https://abhijit1102.github.io/)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijit1102&theme=natural-beauty&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijit1102&theme=random&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhijit1102&theme=natural-beauty&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abhijit1102&theme=natural-beauty&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijit1102&theme=natural-beauty&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Abhijit1102&theme=random&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abhijit1102&theme=random&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijit1102&theme=random&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## ✍️ Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=natural-beauty)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=random)
 
 ## 😂 Random Dev Meme
 ![Random Dev Meme](https://randommeme-five.vercel.app/)
