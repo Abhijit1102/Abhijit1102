@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="URL_TO_YOUR_CUSTOM.CSS_FILE">
+<link rel="stylesheet" type="text/css" href="custom.css">
 <p align="center">
   <img src="https://media.tenor.com/oE-eMpmCEBoAAAAi/hacker-programming.gif" alt="Exciting GIF">
 </p>
