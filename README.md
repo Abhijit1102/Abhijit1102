@@ -1,35 +1,41 @@
 <h1 align="center">👋 Hello, Welcome to my profile.</h1>
 
-I'm a passionate <b>Big Data Engineer</b> with 4+ years of hands-on experience in designing and implementing robust data solutions. My goal is to leverage the power of data to drive meaningful insights and solve complex business challenges.
+I'm a passionate <b>Data Scientist</b> with 1+ years of hands-on experience in the field of data science. My goal is to leverage the power of data to drive meaningful insights and solve complex business challenges.
 
 💡 **Expertise:**
-In my journey as a Big Data Engineer, I have honed my skills in:
 
-🔹 **Big Data Technologies:** I have a strong command over Hadoop, Spark and their ecosystems. I specialize in building scalable data pipelines, processing large datasets, and optimizing performance for efficient data processing.
+In my journey as a Data Scientist, I have honed my skills in:
 
-🔹 **Programming Languages:** I am proficient in Python, SQL, and Spark, using them to develop data-centric applications, perform data analysis, and build machine learning models.
+🔹 **Data Science:** I specialize in data analysis, predictive modeling, and machine learning. I have a deep understanding of data science algorithms and techniques.
 
-🔹 **Data Warehousing:** I have hands-on experience with data warehousing principles, including data modeling, ETL (Extract, Transform, Load) processes, and dimensional modeling. I am well-versed in designing and implementing data warehouses for improved data accessibility and reporting.
-
-🔹 **Database Management:** I have a strong grasp of SQL and have worked extensively with both relational databases (MySQL, PostgreSQL) and NoSQL databases (MongoDB, Cassandra). I excel at writing complex queries, optimizing database performance, and ensuring data integrity.
-
-🔹 **Cloud Platforms:** I am adept at working with cloud-based environments, particularly on AWS and Azure.
+🔹 **Programming Languages:** I am proficient in Python, using it to develop data-centric applications, perform data analysis, and build machine learning models.
 
 🔹 **Data Visualization:** I possess a keen eye for visualizing data insights and effectively communicating complex findings to stakeholders. I am skilled in using tools like Tableau and Power BI to create intuitive dashboards and reports.
+
+🔹 **Data Preprocessing:** I have hands-on experience with data preprocessing, feature engineering, and model evaluation, ensuring data quality and accuracy.
+
+🔹 **Statistics and Probability:** I have a strong foundation in statistics and probability, which is crucial for data analysis and model building.
+
+🔹 **Machine Learning:** I utilize machine learning algorithms to solve real-world problems and drive data-centric decision-making.
+
+My expertise in data science allows me to deliver data-driven solutions that make a positive impact on businesses and organizations.
+
+Feel free to connect with me to explore how we can collaborate and make a difference in the world of data science.
+
 
 ## ⚒️ Skills:
 
 <b> 🧑‍💻 Programming Languages: </b><br>
-Python | SQL | Spark
+Python | SQL | Spark | C | java  | Javascript
 
 <b> ⛓️ Distributed Framework: </b><br>
 Spark | Hadoop | Hive | Kafka | Sqoop
 
 <b> 💾 Databases: </b><br>
-MySQL | MongoDB | Cassandra | HBase
+MySQL | MongoDB | PostgresSQL
 
 <b> 🧬 Version Control: </b><br>
-Git | DVC
+Git | DVC 
 
 <b> ⏰ Workflow Management: </b><br>
 Airflow | Mage
