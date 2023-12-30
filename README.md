@@ -8,7 +8,7 @@ I'm a passionate <b>Data Scientist</b> with 1+ years of hands-on experience in t
 
 ## 💡 Expertise
 
-In my journey as a Data Scientist, I have honed my skills in:
+In my journey as a Data enthusiast, I have honed my skills in:
 
 - **Data Science:** I specialize in data analysis, predictive modeling, and machine learning. I have a deep understanding of data science algorithms and techniques.
 
