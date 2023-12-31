@@ -25,6 +25,12 @@ In my journey as a Data enthusiast, I have honed my skills in:
 My expertise in data science allows me to deliver data-driven solutions that make a positive impact on businesses and organizations.
 Feel free to connect with me to explore how we can collaborate and make a difference in the world of data science.
 
+<h2 style="color: #333; margin-top: 20px;">📧 Contact</h2>
+
+- 📧 Email: <a href="mailto:abhijitrajkumar2@gmail.com">abhijitrajkumar2@gmail.com</a><br>
+- ☎️ Phone: <a href="tel:+917005157909">+917005157909</a>
+
+
 <h2 style="color: #333;">⚒️ Skills</h2>
 
 <div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 5px; margin-top: 20px;">
@@ -72,7 +78,6 @@ Feel free to connect with me to explore how we can collaborate and make a differ
 <a href="https://abhijit1102.github.io" style="text-decoration: none; margin: 10px;">
   <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=portfolio&logoColor=white" alt="Portfolio">
 </a>
-
 <h2 style="color: #333; margin-top: 20px;">📊 GitHub Stats</h2>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijit1102&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
