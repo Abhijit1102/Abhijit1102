@@ -2,6 +2,9 @@
   <img src="https://media.tenor.com/oE-eMpmCEBoAAAAi/hacker-programming.gif" alt="Exciting GIF">
 </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhijit1102" alt="Abhijit1102" /></a> </p>
+
+
 <h1 align="center">👋 Hello, Welcome to my profile.</h1>
 
 I'm a passionate <b>Data Scientist</b> with 1+ years of hands-on experience in the field of data science. My goal is to leverage the power of data to drive meaningful insights and solve complex business challenges.
