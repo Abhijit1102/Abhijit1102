@@ -2,6 +2,9 @@
   <img src="https://media.tenor.com/oE-eMpmCEBoAAAAi/hacker-programming.gif" alt="Exciting GIF">
 </p>
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue)](https://leetcode.com/Rkabhijit/)
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhijit1102" alt="Abhijit1102" /></a> </p>
 
 
