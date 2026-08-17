@@ -1,0 +1,102 @@
+[
+  {
+    "language": "Python",
+    "bytes": 128569030,
+    "percentage": 92.81347500408576
+  },
+  {
+    "language": "JavaScript",
+    "bytes": 2580239,
+    "percentage": 1.8626643440575636
+  },
+  {
+    "language": "C",
+    "bytes": 2565263,
+    "percentage": 1.8518532288017264
+  },
+  {
+    "language": "Tcl",
+    "bytes": 2273958,
+    "percentage": 1.641561299741787
+  },
+  {
+    "language": "TypeScript",
+    "bytes": 1665814,
+    "percentage": 1.2025445478623904
+  },
+  {
+    "language": "HTML",
+    "bytes": 221497,
+    "percentage": 0.15989780955009136
+  },
+  {
+    "language": "CSS",
+    "bytes": 211093,
+    "percentage": 0.1523872030382237
+  },
+  {
+    "language": "C++",
+    "bytes": 184788,
+    "percentage": 0.13339772742358716
+  },
+  {
+    "language": "GSC",
+    "bytes": 137044,
+    "percentage": 0.09893152237720024
+  },
+  {
+    "language": "Makefile",
+    "bytes": 59039,
+    "percentage": 0.042620020939461226
+  },
+  {
+    "language": "Perl",
+    "bytes": 21135,
+    "percentage": 0.015257273032326308
+  },
+  {
+    "language": "C#",
+    "bytes": 8440,
+    "percentage": 0.006092802668220206
+  },
+  {
+    "language": "Shell",
+    "bytes": 8331,
+    "percentage": 0.006014115998689874
+  },
+  {
+    "language": "Go",
+    "bytes": 5131,
+    "percentage": 0.0037040486363315024
+  },
+  {
+    "language": "Dockerfile",
+    "bytes": 4779,
+    "percentage": 0.0034499412264720813
+  },
+  {
+    "language": "GLSL",
+    "bytes": 3856,
+    "percentage": 0.0027836311716418383
+  },
+  {
+    "language": "PowerShell",
+    "bytes": 3117,
+    "percentage": 0.002250149990147202
+  },
+  {
+    "language": "DTrace",
+    "bytes": 969,
+    "percentage": 0.0006995172731641445
+  },
+  {
+    "language": "Java",
+    "bytes": 518,
+    "percentage": 0.00037394215428176146
+  },
+  {
+    "language": "Batchfile",
+    "bytes": 58,
+    "percentage": 4.186997094274549e-05
+  }
+]
