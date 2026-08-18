@@ -1,102 +1,102 @@
 [
   {
     "language": "Python",
-    "bytes": 128569030,
-    "percentage": 92.81347500408576
+    "bytes": 128652886,
+    "percentage": 92.81782275771978
   },
   {
     "language": "JavaScript",
     "bytes": 2580239,
-    "percentage": 1.8626643440575636
+    "percentage": 1.8615374564901415
   },
   {
     "language": "C",
     "bytes": 2565263,
-    "percentage": 1.8518532288017264
+    "percentage": 1.8507328818176416
   },
   {
     "language": "Tcl",
     "bytes": 2273958,
-    "percentage": 1.641561299741787
+    "percentage": 1.6405681766244944
   },
   {
     "language": "TypeScript",
     "bytes": 1665814,
-    "percentage": 1.2025445478623904
+    "percentage": 1.2018170241383332
   },
   {
     "language": "HTML",
     "bytes": 221497,
-    "percentage": 0.15989780955009136
+    "percentage": 0.1598010734665265
   },
   {
     "language": "CSS",
     "bytes": 211093,
-    "percentage": 0.1523872030382237
+    "percentage": 0.15229501077337154
   },
   {
     "language": "C++",
     "bytes": 184788,
-    "percentage": 0.13339772742358716
+    "percentage": 0.13331702354312927
   },
   {
     "language": "GSC",
     "bytes": 137044,
-    "percentage": 0.09893152237720024
+    "percentage": 0.09887167010003142
   },
   {
     "language": "Makefile",
     "bytes": 59039,
-    "percentage": 0.042620020939461226
+    "percentage": 0.04259423638419599
   },
   {
     "language": "Perl",
     "bytes": 21135,
-    "percentage": 0.015257273032326308
+    "percentage": 0.015248042581682993
   },
   {
     "language": "C#",
     "bytes": 8440,
-    "percentage": 0.006092802668220206
+    "percentage": 0.006089116602290251
   },
   {
     "language": "Shell",
     "bytes": 8331,
-    "percentage": 0.006014115998689874
+    "percentage": 0.006010477537165887
   },
   {
     "language": "Go",
     "bytes": 5131,
-    "percentage": 0.0037040486363315024
+    "percentage": 0.0037018077353496775
   },
   {
     "language": "Dockerfile",
     "bytes": 4779,
-    "percentage": 0.0034499412264720813
+    "percentage": 0.0034478540571498944
   },
   {
     "language": "GLSL",
     "bytes": 3856,
-    "percentage": 0.0027836311716418383
+    "percentage": 0.002781947111188532
   },
   {
     "language": "PowerShell",
     "bytes": 3117,
-    "percentage": 0.002250149990147202
+    "percentage": 0.002248788678831601
   },
   {
     "language": "DTrace",
     "bytes": 969,
-    "percentage": 0.0006995172731641445
+    "percentage": 0.0006990940743624708
   },
   {
     "language": "Java",
     "bytes": 518,
-    "percentage": 0.00037394215428176146
+    "percentage": 0.0003737159241689988
   },
   {
     "language": "Batchfile",
     "bytes": 58,
-    "percentage": 4.186997094274549e-05
+    "percentage": 4.184464015791879e-05
   }
 ]
