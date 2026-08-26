@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://github.com/Abhijit1102"><img src="https://img.shields.io/badge/GitHub-Abhijit1102-181717?style=for-the-badge&logo=github" /></a>
-  <a href="[ADD LINKEDIN URL]"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="[ADD PORTFOLIO URL]"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://www.linkedin.com/in/abhi-ai-automation"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://abhijit1102.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel" /></a>
   <a href="mailto:abhijitrajkumar2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="[ADD PORTFOLIO URL]">
+  <a href="https://abhijit1102.github.io">
     🚀 View My Interactive Portfolio
   </a>
 </p>
@@ -126,9 +126,11 @@ _Stats are generated automatically by `scripts/generate_stats.py`, run daily by 
 
 ## 🔭 Currently Building
 
-- 🏥 **MediRAG (RAGnosis)** at Euron — a RAG-based medical document Q&A system (document ingestion → embeddings → vector search → grounded LLM response)
-- 📈 Applying **Big Data engineering** skills (Hadoop, Spark, Kafka, Airflow, Azure Data Factory) from my Big Data Engineering Internship to fraud detection and sentiment analysis projects
-- 🎓 Pursuing academic publication of two MSc mathematics projects: **Traffic Control Optimization using Linear Algebra** and **Rainfall Prediction using Time Series analysis**
+- 🏥 **🤖 CLI Agents**  an AI-powered GitHub orchestration system that uses intelligent agents to automate repository workflows, task execution, and developer operations directly from the command line.
+
+<p align="center">
+  <img src="./assets/cli_agents-demo.gif" alt="Interactive Portfolio Demo" width="900">
+</p
 
 ---
 
@@ -172,7 +174,7 @@ I'm open to full-time and freelance roles as:
 
 **Available for remote work.**
 
-📩 Reach out via [Email](mailto:abhijitrajkumar2@gmail.com) or [LinkedIn]([ADD LINKEDIN URL]).
+📩 Reach out via [Email](mailto:abhijitrajkumar2@gmail.com) or [LinkedIn]([https://www.linkedin.com/in/abhi-ai-automation/]).
 
 ---
 
@@ -228,8 +230,8 @@ Intelligent products that solve real-world problems
 
 <p align="center">
   <a href="https://github.com/Abhijit1102"><img src="https://img.shields.io/badge/GitHub-Abhijit1102-181717?style=for-the-badge&logo=github" /></a>
-  <a href="[ADD LINKEDIN URL]"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="[ADD PORTFOLIO URL]"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://www.linkedin.com/in/abhi-ai-automation/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://abhijit1102.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel" /></a>
   <a href="mailto:abhijitrajkumar2@gmail.com"><img src="https://img.shields.io/badge/Email-abhijitrajkumar2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
