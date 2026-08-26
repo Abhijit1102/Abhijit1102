@@ -119,7 +119,29 @@ I'm an **AI/ML Engineer and Full-Stack Developer** who builds end-to-end, produc
 ## 📊 GitHub Statistics
 
 <!--STATS:START-->
-_Stats are generated automatically by `scripts/generate_stats.py`, run daily by the `.github/workflows/github.yml` GitHub Actions workflow. Run it once (or wait for the first scheduled run) to populate this section._
+
+| Metric | Value |
+|---|---|
+| Public Repositories | 98 |
+| Total Stars | 3 |
+| Total Forks | 0 |
+| Contributions (last year) | 467 |
+
+**Top Languages**
+
+| Language | Share |
+|---|---|
+| Jupyter Notebook | 91.6% |
+| JavaScript | 1.9% |
+| C | 1.9% |
+| Tcl | 1.6% |
+| Python | 1.2% |
+| TypeScript | 1.2% |
+
+**467** contributions in the last year
+
+_Last updated automatically by `scripts/generate_stats.py` via GitHub Actions._
+
 <!--STATS:END-->
 
 ---
