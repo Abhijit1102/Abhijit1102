@@ -151,7 +151,7 @@ _Last updated automatically by `scripts/generate_stats.py` via GitHub Actions._
 - 🏥 **🤖 CLI Agents**  an AI-powered GitHub orchestration system that uses intelligent agents to automate repository workflows, task execution, and developer operations directly from the command line.
 
 <p align="center">
-  <img src="./assets/cli_agents-demo.gif" alt="Interactive Portfolio Demo" width="900">
+  <img src="./assets/cli_agent-demo.gif" alt="Interactive Portfolio Demo" width="900">
 </p
 
 ---
