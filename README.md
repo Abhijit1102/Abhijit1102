@@ -119,18 +119,29 @@ I'm an **AI/ML Engineer and Full-Stack Developer** who builds end-to-end, produc
 ## 📊 GitHub Statistics
 
 <!--STATS:START-->
+## 📊 GitHub Statistics
 
 | Metric | Value |
-|---|---|
-| Public Repositories | 98 |
-| Total Stars | 3 |
-| Total Forks | 0 |
-| Contributions (last year) | 467 |
+|---|---:|
+| 📦 Public Repositories | **98** |
+| ⭐ Stars Received | **3** |
+| 🍴 Forks Received | **0** |
+| 🔥 Contributions (Last Year) | **470** |
 
-**Top Languages**
+### ⭐ Top Starred Repositories
+
+| Repository | ⭐ Stars | 🍴 Forks |
+|---|---:|---:|
+| [career_ai](https://github.com/Abhijit1102/career_ai) | ⭐ 1 | 🍴 0 |
+| [DjangoBotHub](https://github.com/Abhijit1102/DjangoBotHub) | ⭐ 1 | 🍴 0 |
+| [pwskill_assign](https://github.com/Abhijit1102/pwskill_assign) | ⭐ 1 | 🍴 0 |
+| [10.-Diabetes-Deployment-With-BeanStalk](https://github.com/Abhijit1102/10.-Diabetes-Deployment-With-BeanStalk) | ⭐ 0 | 🍴 0 |
+| [Abhijit1102](https://github.com/Abhijit1102/Abhijit1102) | ⭐ 0 | 🍴 0 |
+
+### 💻 Top Languages
 
 | Language | Share |
-|---|---|
+|---|---:|
 | Jupyter Notebook | 91.6% |
 | JavaScript | 1.9% |
 | C | 1.9% |
@@ -138,10 +149,9 @@ I'm an **AI/ML Engineer and Full-Stack Developer** who builds end-to-end, produc
 | Python | 1.2% |
 | TypeScript | 1.2% |
 
-**467** contributions in the last year
+**🔥 470 contributions in the last year**
 
 _Last updated automatically by `scripts/generate_stats.py` via GitHub Actions._
-
 <!--STATS:END-->
 
 ---
