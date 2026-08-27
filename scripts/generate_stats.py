@@ -259,6 +259,12 @@ def build_markdown(repos, languages, contributions):
         else "N/A"
     )
 
+    contribution_note = (
+        f"**🔥 {contributions:,} contributions in the last year**"
+        if contributions is not None
+        else "_Contribution count unavailable (requires authenticated token)_"
+    )
+
     # ---------------------------------------------------------
     # Top repositories
     # ---------------------------------------------------------
@@ -293,7 +299,7 @@ def build_markdown(repos, languages, contributions):
 |---|---:|
 {language_rows}
 
-{"**🔥 " + f"{contributions:,}" + " contributions in the last year**" if contributions is not None else "_Contribution count unavailable (requires authenticated token)_"}}
+{contribution_note}
 
 _Last updated automatically by `scripts/generate_stats.py` via GitHub Actions._
 """

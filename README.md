@@ -169,6 +169,16 @@ _Last updated automatically by `scripts/generate_stats.py` via GitHub Actions._
 
 ---
 
+## 🚀 Recently Completed
+
+- 🧠 **📚 RAG AI Application** — A full-stack Retrieval-Augmented Generation (RAG) application that allows users to upload documents, perform semantic search, and interact with an AI assistant to get accurate, context-aware answers grounded in their uploaded data.
+
+<p align="center">
+  <img src="./assets/rag-app-demo.gif" alt="RAG AI Application Demo" width="900">
+</p>
+
+---
+
 ## 💼 What I Can Build
 
 - 🤖 AI chatbots & conversational assistants
