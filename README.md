@@ -123,10 +123,10 @@ I'm an **AI/ML Engineer and Full-Stack Developer** who builds end-to-end, produc
 
 | Metric | Value |
 |---|---:|
-| 📦 Public Repositories | **98** |
+| 📦 Public Repositories | **99** |
 | ⭐ Stars Received | **3** |
 | 🍴 Forks Received | **0** |
-| 🔥 Contributions (Last Year) | **470** |
+| 🔥 Contributions (Last Year) | **479** |
 
 ### ⭐ Top Starred Repositories
 
@@ -142,14 +142,14 @@ I'm an **AI/ML Engineer and Full-Stack Developer** who builds end-to-end, produc
 
 | Language | Share |
 |---|---:|
-| Jupyter Notebook | 91.6% |
+| Jupyter Notebook | 91.5% |
 | JavaScript | 1.9% |
-| C | 1.9% |
+| C | 1.8% |
 | Tcl | 1.6% |
 | Python | 1.2% |
 | TypeScript | 1.2% |
 
-**🔥 470 contributions in the last year**
+**🔥 479 contributions in the last year**
 
 _Last updated automatically by `scripts/generate_stats.py` via GitHub Actions._
 <!--STATS:END-->
