@@ -124,7 +124,7 @@ I'm an **AI/ML Engineer and Full-Stack Developer** who builds end-to-end, produc
 | Metric | Value |
 |---|---:|
 | 📦 Public Repositories | **99** |
-| ⭐ Stars Received | **3** |
+| ⭐ Stars Received | **4** |
 | 🍴 Forks Received | **0** |
 | 🔥 Contributions (Last Year) | **455** |
 
@@ -132,11 +132,11 @@ I'm an **AI/ML Engineer and Full-Stack Developer** who builds end-to-end, produc
 
 | Repository | ⭐ Stars | 🍴 Forks |
 |---|---:|---:|
+| [Abhijit1102](https://github.com/Abhijit1102/Abhijit1102) | ⭐ 1 | 🍴 0 |
 | [career_ai](https://github.com/Abhijit1102/career_ai) | ⭐ 1 | 🍴 0 |
 | [DjangoBotHub](https://github.com/Abhijit1102/DjangoBotHub) | ⭐ 1 | 🍴 0 |
 | [pwskill_assign](https://github.com/Abhijit1102/pwskill_assign) | ⭐ 1 | 🍴 0 |
 | [10.-Diabetes-Deployment-With-BeanStalk](https://github.com/Abhijit1102/10.-Diabetes-Deployment-With-BeanStalk) | ⭐ 0 | 🍴 0 |
-| [Abhijit1102](https://github.com/Abhijit1102/Abhijit1102) | ⭐ 0 | 🍴 0 |
 
 ### 💻 Top Languages
 
