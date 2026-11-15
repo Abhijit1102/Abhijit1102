@@ -123,10 +123,10 @@ I'm an **AI/ML Engineer and Full-Stack Developer** who builds end-to-end, produc
 
 | Metric | Value |
 |---|---:|
-| 📦 Public Repositories | **101** |
+| 📦 Public Repositories | **102** |
 | ⭐ Stars Received | **4** |
 | 🍴 Forks Received | **0** |
-| 🔥 Contributions (Last Year) | **427** |
+| 🔥 Contributions (Last Year) | **428** |
 
 ### ⭐ Top Starred Repositories
 
@@ -149,7 +149,7 @@ I'm an **AI/ML Engineer and Full-Stack Developer** who builds end-to-end, produc
 | Python | 1.2% |
 | TypeScript | 1.2% |
 
-**🔥 427 contributions in the last year**
+**🔥 428 contributions in the last year**
 
 _Last updated automatically by `scripts/generate_stats.py` via GitHub Actions._
 <!--STATS:END-->
